@@ -2,3 +2,28 @@
   sections:
   - local: chapter0/1
     title: Wstęp
+- title: 1. Modele Transformerów
+  sections:
+  - local: chapter1/1
+    title: Wprowadzenie
+  - local: chapter1/2
+    title: Przetwarzanie Języka Naturalnego (NLP) oraz Duże Modele Językowe (LLM)
+  - local: chapter1/3
+    title: Transofmersy, do czego służą?
+  - local: chapter1/4
+    title: Jak działają Transormersy
+  - local: chapter1/5
+    title: Jak Transormersy 🤗 rozwiązują zadania?
+  - local: chapter1/6
+    title: Architektura Transformersów 
+  - local: chapter1/7
+    title: Szybki quiz
+  - local: chapter1/8
+    title: Wnioskowanie (inferencja) z modelami LLM
+  - local: chapter1/9
+    title: Stronniczość (bias) i ograniczenia
+  - local: chapter1/10
+    title: Podsumowanie
+  - local: chapter1/11
+    title: Egzamin certyfikacyjny
+    quiz: 1
